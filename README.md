@@ -1,2 +1,6 @@
 # scrapy
-基于nodejs的爬虫工具
+基于nodejs 的爬虫组件
+
+使用的方法
+
+Scraping made simple
